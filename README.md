@@ -1,2 +1,2 @@
 # hello-world
-just another repository for cool guys
+just another for cool guys
