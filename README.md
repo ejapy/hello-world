@@ -1,2 +1,2 @@
 # hello-world
-just another for cool guys
+just another cool guys
